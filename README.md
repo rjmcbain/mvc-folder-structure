@@ -1,13 +1,13 @@
 # MVC App Organization
 
-Remeber [How HTTP/MVC is like a plane](https://github.com/den-wdi-2/mvc-intro)? We're going to take this one step further and build a cargo plane MVC app from scratch! 
+Remeber [How HTTP/MVC is like a plane](https://github.com/den-materials/mvc-intro)? We're going to take this one step further and build a cargo plane MVC app from scratch! 
 
 ## Fork this repo
 
 The Starter Code in this repo is a modified version of the Solution Code from the Intro to MVC class. If you test it, you'll see that it works almost identically. To replicate:
 
 1. Open terminal and `cd` to the root of `starter code`.
-2. Run `Mongod` to start your Mongo Test DV.
+2. Run `mongod` to start your Mongo Test DV.
 3. Open a new terminal tab and run `nodemon server.js` to start your localhost sever.
 4. Open ANOTHER new terminal tab and run `mongo` - this will open the Mongo CLI.
 
